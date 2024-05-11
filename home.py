@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title('Profile')
-st.subheader('Nama : Muhammad Shiddiq)
+st.subheader('Nama : Muhammad Shiddiq')
 st.subheader('NIM : 312210125')
 st.subheader('Kelas : TI.22.B1')
 st.subheader('Prodi : Teknik Infomatika')
